@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimePickerDialog and ProgressBar</string>
+    <string name="show_progress_dialog">Show Progress Dialog</string>
+</resources>
